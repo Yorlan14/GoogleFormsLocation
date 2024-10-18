@@ -1,3 +1,3 @@
 function doGet(e) {
-  return HtmlService.createHtmlOutputFromFile("page")
+  return HtmlService.createHtmlOutputFromFile("yorlan")
 }
